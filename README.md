@@ -1,1 +1,1 @@
-# .github
+# Lancaster University SCC Systems Teams
